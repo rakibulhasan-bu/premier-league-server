@@ -137,7 +137,7 @@ const getFixers = CatchAsyncError(async (req: Request, res: Response) => {
       },
     },
     {
-      location: "Craven Cottage",
+      location: "Craven Cotge",
       time: "17:30",
       teamOne: {
         name: "Manchester City",
